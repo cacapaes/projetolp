@@ -13,3 +13,10 @@ void contar(int max) {
 	for(i=0;i<max;i++)
 		 printf("valor = %d\n",i);
 }
+
+void teste2(void) {
+	//
+	//
+	//
+
+}
