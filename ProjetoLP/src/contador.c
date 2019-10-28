@@ -17,4 +17,10 @@ void contar(int max) {
 void teste(void) {
 
 	// teste
+
+void teste2(void) {
+	//
+	//
+	//
+
 }
